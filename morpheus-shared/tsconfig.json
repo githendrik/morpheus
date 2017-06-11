@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "moduleResolution": "node",
+        "declaration": true,
+        "declarationDir": "../typings",
+        "sourceMap": true
+    }
+}

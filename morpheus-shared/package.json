@@ -1,0 +1,24 @@
+{
+  "name": "morpheus-shared",
+  "version": "1.0.0",
+  "main": "dist/morhpeus-shared.js",
+  "module": "index.es6.js",
+  "license": "MIT",
+  "description": "Shared Components Module for the Morpheus Project",
+  "devDependencies": {
+    "@types/angular": "^1.6.18",
+    "angular": "^1.6.4",
+    "css-loader": "^0.28.4",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.5",
+    "ts-loader": "^2.1.0",
+    "typescript": "^2.3.3",
+    "webpack": "^2.6.1"
+  },
+  "peerDependencies": {},
+  "scripts": {
+    "start": "webpack"
+  },
+  "typings": "typings/SharedModule.d.ts"
+}

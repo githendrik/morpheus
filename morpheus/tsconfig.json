@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "moduleResolution": "node",
+        "allowJs": true,
+        "sourceMap": true
+    }
+}
